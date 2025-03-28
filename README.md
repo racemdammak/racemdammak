@@ -10,7 +10,7 @@ I'm a **Computer Science student** passionate about **problem-solving and buildi
 - 🏢 **Startup Enthusiast**: Working on **HeroStats**, a sports analytics platform for football performance analysis.
 - 🌿 **AI & Agriculture**: Developing **UrbanFarm AI**, a project that integrates machine learning to optimize urban farming.
 - 🤖 **Machine Learning**: Learning to Develop Machine Learning models.
-- 📢 **Community Engagement**:**IEEE Computer Society FSS SB** Vice-Chair.
+- 📢 **Community Engagement**: **IEEE Computer Society FSS SB** Vice-Chair.
 
 ---
 
