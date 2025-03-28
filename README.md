@@ -1,4 +1,4 @@
-### Hi there! I'm [Your Name] 👋
+### Hi there! I'm Racem Dammak 👋
 
 I'm a **Computer Science student** passionate about **problem-solving and building innovative projects**. I enjoy creating solutions that make an impact, whether through web applications, machine learning models, or startup ideas.
 
