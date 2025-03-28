@@ -28,8 +28,8 @@ I'm a **Computer Science student** passionate about **problem-solving and buildi
 ---
 
 ### 📫 Let's Connect
-- 🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/racemdammak/))
-- 🐦 [Facebook]([https://twitter.com/your-profile](https://www.facebook.com/racemdammak13/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/racemdammak/)
+- 🟦 [Facebook](https://www.facebook.com/racemdammak13/)
 - 📧 Email: racemdammak99@gmail.com
 
 > "Building cool things, solving hard problems, and aiming high! 🚀"
